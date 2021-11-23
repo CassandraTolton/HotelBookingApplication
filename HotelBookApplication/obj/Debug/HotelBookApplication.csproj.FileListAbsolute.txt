@@ -1,0 +1,17 @@
+C:\Users\17025\source\repos\HotelBookApplication\HotelBookApplication\bin\Debug\HotelBookApplication.exe.config
+C:\Users\17025\source\repos\HotelBookApplication\HotelBookApplication\bin\Debug\HotelBookApplication.exe
+C:\Users\17025\source\repos\HotelBookApplication\HotelBookApplication\bin\Debug\HotelBookApplication.pdb
+C:\Users\17025\source\repos\HotelBookApplication\HotelBookApplication\obj\Debug\HotelBookApplication.csproj.AssemblyReference.cache
+C:\Users\17025\source\repos\HotelBookApplication\HotelBookApplication\obj\Debug\HotelBookApplication.Properties.Resources.resources
+C:\Users\17025\source\repos\HotelBookApplication\HotelBookApplication\obj\Debug\HotelBookApplication.csproj.GenerateResource.cache
+C:\Users\17025\source\repos\HotelBookApplication\HotelBookApplication\obj\Debug\HotelBookApplication.csproj.CoreCompileInputs.cache
+C:\Users\17025\source\repos\HotelBookApplication\HotelBookApplication\obj\Debug\HotelBookApplication.exe
+C:\Users\17025\source\repos\HotelBookApplication\HotelBookApplication\obj\Debug\HotelBookApplication.pdb
+C:\Users\17025\source\repos\HotelBookApplication\HotelBookApplication\obj\Debug\HotelBookApplication.CheckIn.resources
+C:\Users\17025\source\repos\HotelBookApplication\HotelBookApplication\obj\Debug\HotelBookApplication.Main.resources
+C:\Users\17025\source\repos\HotelBookApplication\HotelBookApplication\bin\Debug\Dapper.dll
+C:\Users\17025\source\repos\HotelBookApplication\HotelBookApplication\bin\Debug\Dapper.xml
+C:\Users\17025\source\repos\HotelBookApplication\HotelBookApplication\obj\Debug\HotelBookApplication.csproj.CopyComplete
+C:\Users\17025\source\repos\HotelBookApplication\HotelBookApplication\obj\Debug\HotelBookApplication.RemovingClients.resources
+C:\Users\17025\source\repos\HotelBookApplication\HotelBookApplication\obj\Debug\HotelBookApplication.RoomForm.resources
+C:\Users\17025\source\repos\HotelBookApplication\HotelBookApplication\obj\Debug\HotelBookApplication.AddingRoom.resources

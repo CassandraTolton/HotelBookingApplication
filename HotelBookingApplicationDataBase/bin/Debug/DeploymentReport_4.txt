@@ -1,0 +1,85 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[RoomTable]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[Clients].[ Address] is being dropped, data loss could occur.
+       The column [dbo].[Clients].[ FirstName] is being dropped, data loss could occur.
+       The column [dbo].[Clients].[ LastName] is being dropped, data loss could occur.
+       The column [dbo].[Clients].[ PhoneNumber] is being dropped, data loss could occur.
+       The column [dbo].[Clients].[Address] on table [dbo].[Clients] must be added, but the column has no default value and
+         does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue you must
+         either: add a default value to the column, mark it as allowing NULL values, or enable the generation of smart-defaults
+         as a deployment option.
+       The column [dbo].[Clients].[FirstName] on table [dbo].[Clients] must be added, but the column has no default value and
+         does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue you must
+         either: add a default value to the column, mark it as allowing NULL values, or enable the generation of smart-defaults
+         as a deployment option.
+       The column [dbo].[Clients].[LastName] on table [dbo].[Clients] must be added, but the column has no default value and
+         does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue you must
+         either: add a default value to the column, mark it as allowing NULL values, or enable the generation of smart-defaults
+         as a deployment option.
+       The column [dbo].[Clients].[PhoneNumber] on table [dbo].[Clients] must be added, but the column has no default value and
+         does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue you must
+         either: add a default value to the column, mark it as allowing NULL values, or enable the generation of smart-defaults
+         as a deployment option.
+       The table [dbo].[OccupanciesTable] is being dropped and re-created since all non-computed columns within the table have
+         been redefined.
+       The column [dbo].[RoomTable].[Down_For_Repair] is being dropped, data loss could occur.
+       The column [dbo].[RoomTable].[Number_Of_Beds] is being dropped, data loss could occur.
+       The column [dbo].[RoomTable].[Number_Of_Rooms] is being dropped, data loss could occur.
+       The column [dbo].[RoomTable].[Room_Number] is being dropped, data loss could occur.
+       The column [dbo].[RoomTable].[Room_Type] is being dropped, data loss could occur.
+       The column [dbo].[RoomTable].[DownForRepair] on table [dbo].[RoomTable] must be added, but the column has no default
+         value and does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue
+         you must either: add a default value to the column, mark it as allowing NULL values, or enable the generation of
+         smart-defaults as a deployment option.
+       The column [dbo].[RoomTable].[RoomNumber] on table [dbo].[RoomTable] must be added, but the column has no default value
+         and does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue you must
+         either: add a default value to the column, mark it as allowing NULL values, or enable the generation of smart-defaults
+         as a deployment option.
+       The column [dbo].[RoomTable].[RoomType] on table [dbo].[RoomTable] must be added, but the column has no default value
+         and does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue you must
+         either: add a default value to the column, mark it as allowing NULL values, or enable the generation of smart-defaults
+         as a deployment option.
+
+** User actions
+     Drop
+       unnamed constraint on [dbo].[RoomTable] (Default Constraint)
+       unnamed constraint on [dbo].[RoomTable] (Default Constraint)
+       unnamed constraint on [dbo].[RoomTable] (Default Constraint)
+       unnamed constraint on [dbo].[OccupanciesTable] (Foreign Key)
+       [dbo].[OccupanciesTable] (Table)
+     Alter
+       [dbo].[Clients] (Table)
+     Create
+       [dbo].[OccupanciesTable] (Table)
+       Foreign Key: unnamed constraint on [dbo].[OccupanciesTable] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[OccupanciesTable] (Foreign Key)
+       [dbo].[View1] (View)
+     Table rebuild
+       [dbo].[RoomTable] (Table)
+
+** Supporting actions
+
+The column [dbo].[Clients].[ Address] is being dropped, data loss could occur.
+The column [dbo].[Clients].[ FirstName] is being dropped, data loss could occur.
+The column [dbo].[Clients].[ LastName] is being dropped, data loss could occur.
+The column [dbo].[Clients].[ PhoneNumber] is being dropped, data loss could occur.
+The column [dbo].[Clients].[Address] on table [dbo].[Clients] must be added, but the column has no default value and does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue you must either: add a default value to the column, mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+The column [dbo].[Clients].[FirstName] on table [dbo].[Clients] must be added, but the column has no default value and does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue you must either: add a default value to the column, mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+The column [dbo].[Clients].[LastName] on table [dbo].[Clients] must be added, but the column has no default value and does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue you must either: add a default value to the column, mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+The column [dbo].[Clients].[PhoneNumber] on table [dbo].[Clients] must be added, but the column has no default value and does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue you must either: add a default value to the column, mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+The table [dbo].[OccupanciesTable] is being dropped and re-created since all non-computed columns within the table have been redefined.
+The column [dbo].[RoomTable].[Down_For_Repair] is being dropped, data loss could occur.
+The column [dbo].[RoomTable].[Number_Of_Beds] is being dropped, data loss could occur.
+The column [dbo].[RoomTable].[Number_Of_Rooms] is being dropped, data loss could occur.
+The column [dbo].[RoomTable].[Room_Number] is being dropped, data loss could occur.
+The column [dbo].[RoomTable].[Room_Type] is being dropped, data loss could occur.
+The column [dbo].[RoomTable].[DownForRepair] on table [dbo].[RoomTable] must be added, but the column has no default value and does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue you must either: add a default value to the column, mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+The column [dbo].[RoomTable].[RoomNumber] on table [dbo].[RoomTable] must be added, but the column has no default value and does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue you must either: add a default value to the column, mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+The column [dbo].[RoomTable].[RoomType] on table [dbo].[RoomTable] must be added, but the column has no default value and does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue you must either: add a default value to the column, mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+

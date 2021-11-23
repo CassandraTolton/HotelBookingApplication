@@ -1,0 +1,10 @@
+C:\Users\17025\source\repos\HotelBookApplication\HotelBookingApplicationDataBase\bin\Debug\HotelBookingApplicationDataBase.dacpac
+C:\Users\17025\source\repos\HotelBookApplication\HotelBookingApplicationDataBase\bin\Debug\HotelBookingApplicationDataBase.dll
+C:\Users\17025\source\repos\HotelBookApplication\HotelBookingApplicationDataBase\bin\Debug\HotelBookingApplicationDataBase.pdb
+C:\Users\17025\source\repos\HotelBookApplication\HotelBookingApplicationDataBase\obj\Debug\HotelBookingApplicationDataBase.sqlproj.AssemblyReference.cache
+C:\Users\17025\source\repos\HotelBookApplication\HotelBookingApplicationDataBase\obj\Debug\HotelBookingApplicationDataBase.dll
+C:\Users\17025\source\repos\HotelBookApplication\HotelBookingApplicationDataBase\obj\Debug\HotelBookingApplicationDataBase.pdb
+C:\Users\17025\source\repos\HotelBookApplication\HotelBookingApplicationDataBase\obj\Debug\Model.xml
+C:\Users\17025\source\repos\HotelBookApplication\HotelBookingApplicationDataBase\obj\Debug\refactor.xml
+C:\Users\17025\source\repos\HotelBookApplication\HotelBookingApplicationDataBase\obj\Debug\postdeploy.sql
+C:\Users\17025\source\repos\HotelBookApplication\HotelBookingApplicationDataBase\obj\Debug\predeploy.sql
