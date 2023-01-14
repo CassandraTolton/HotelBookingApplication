@@ -13,12 +13,23 @@ several issues that need to be fixed:
     fix: rewrite the code so that it will properly convert and delete the client.
     
 ### Main Window
+![Main window](ClientList.PNG)
 
-### Adding
-*screenshots*
-### Deleting
-*screenshots*
-### Editing
-*screenshots*
-### Exiting
-*screenshots*
+*the main screen that can show the rooms available, rooms booked, rooms down for repair and the clients.*
+
+### Check In window
+
+![Check In window](checkIn-filled.PNG)
+
+*check in window that asks for customers information to make a booking*
+
+### Client List
+
+![Client List](ClientList.PNG)
+
+*shows the list of clients that are staying or have previously stayed at the hotel. information displayed includes: ID, First name, Last name, Phone number and address*
+### Room Editor
+
+![Room Editor](RoomEditor.PNG)
+
+*room editor shows all rooms, and displays all inforation/type of room it is. like if it has a balcony, can smoke in and if its a suite.*
