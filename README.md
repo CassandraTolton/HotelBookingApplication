@@ -12,8 +12,8 @@ several issues that need to be fixed:
   2. when trying to remove clients, it will crash as its not converting the id from string to int.
     fix: rewrite the code so that it will properly convert and delete the client.
     
-### Displaying
-*screenshots*
+### Main Window
+
 ### Adding
 *screenshots*
 ### Deleting
